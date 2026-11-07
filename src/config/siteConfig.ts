@@ -3,7 +3,7 @@ import { SiteConfig } from '../types';
 export const siteConfig: SiteConfig = {
   girlfriendName: "Riya",
   birthdayDate: "2026-11-20T00:00:00+05:30",
-  pin: "2580",
+  pin: "3010",
   senderName: "Your Friend, Samrat",
   heroMessage: "A small corner of the internet made just to celebrate you and the moments that deserve to be remembered.",
   introLines: [
